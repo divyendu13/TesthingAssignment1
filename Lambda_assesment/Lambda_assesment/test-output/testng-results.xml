@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70361" started-at="2020-12-27T19:09:39 IST" finished-at="2020-12-27T19:10:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70361" started-at="2020-12-27T19:09:39 IST" finished-at="2020-12-27T19:10:49 IST">
+      <class name="NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:NewTest@68bbe345]" name="beforeClass" is-config="true" duration-ms="25205" started-at="2020-12-27T19:09:39 IST" finished-at="2020-12-27T19:10:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="login()[pri:1, instance:NewTest@68bbe345]" name="login" duration-ms="3774" started-at="2020-12-27T19:10:04 IST" finished-at="2020-12-27T19:10:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="upload()[pri:2, instance:NewTest@68bbe345]" name="upload" duration-ms="40021" started-at="2020-12-27T19:10:08 IST" finished-at="2020-12-27T19:10:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- upload -->
+        <test-method status="PASS" signature="submit()[pri:3, instance:NewTest@68bbe345]" name="submit" duration-ms="304" started-at="2020-12-27T19:10:48 IST" finished-at="2020-12-27T19:10:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submit -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:NewTest@68bbe345]" name="afterClass" is-config="true" duration-ms="967" started-at="2020-12-27T19:10:48 IST" finished-at="2020-12-27T19:10:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
